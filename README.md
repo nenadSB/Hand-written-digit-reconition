@@ -1,7 +1,7 @@
 The **Handwritten Digit Recognition System** is a machine learning project that leverages **PyTorch** to build, train, and evaluate a neural network for classifying handwritten digits (0-9) from the **MNIST dataset**. It provides a complete end-to-end pipeline for image recognition tasks.  
 
 ### **Tools and Technologies Used**  
-
+  
 #### **1. Machine Learning Framework**
 - **PyTorch**  
   - **Purpose**: Implements deep learning models for training and classification.  
